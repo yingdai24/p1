@@ -1,0 +1,86 @@
+/*
+  CSS file for P1 index.html
+*/
+
+h1 {
+	color:black;
+	background-color:white;
+	text-align:center;
+	padding-top:2mm;
+	padding-bottom:2mm;
+}
+
+h2 {
+	color:black;
+	background-color:white;
+	text-align:center;
+	padding-top:2mm;
+	padding-bottom:2mm;
+}
+
+body {
+	background-color:white;
+	padding-left:50mm;
+	padding-right:50mm;
+}
+
+ul li{
+	list-style-type:none;
+}
+
+.questionanswer {
+	border: 0;
+	color:red;
+	background-color:white;
+	margin:5mm;
+	padding-top:5mm;
+	padding-bottom:5mm;
+	padding-right:10mm;
+}
+
+
+.question1 {
+	font-style:italic;
+	font-weight:bold;
+	font-size:180%;
+}
+
+.answer1 {
+	font-weight:bold;
+	font-size:120%;
+}
+
+.question2 {
+	font-style:normal;
+	font-weight:bold;
+	font-size:220%;
+	color:black;
+}
+
+.answer2 {
+	font-weight:bold;
+	font-size:120%;
+	color:black;
+}
+
+a:link {
+	text-decoration:none
+ }
+
+a:visited {
+	color:black;
+}
+
+a:hover {
+	color:green;
+	text-decoration: underline;
+}
+
+a:active {
+	color:yellow;
+	text-decoration:underline;
+}
+
+.clearme {
+    display: none;
+}
